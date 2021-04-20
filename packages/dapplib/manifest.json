@@ -1,0 +1,19 @@
+{
+    "name": "testing-app-no-nft-1",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "lol-token",
+        "/category/asset_value_tracking/token/symbol": "LOL",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "100",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single",
+        "/category/collection/entity": true
+    }
+}
